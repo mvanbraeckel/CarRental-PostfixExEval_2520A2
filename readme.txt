@@ -1,7 +1,4 @@
-Name:   Mitchell Van Braeckel
-ID:     1002297
-Email:  mvanbrae@uoguelph.ca
-CIS*2520: Assignment #2
+CIS*2520: Data Structures - Assignment #2
 
 NOTE: assumed submission should be in a ".tar" file like last time for Assignment 1
 
