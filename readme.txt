@@ -1,4 +1,9 @@
-CIS*2520: Data Structures - Assignment #2
+# CarRental-PostfixExEval_2520A2
+Data Structures course A2 - 2 programs: (1) Car rental place management system (2) Simple postfix expression evaluator using a stack
+
+*Do not use code from this or copy any aspects without explicit permission from creator*
+
+(Data Structures course Assignment #2)
 
 NOTE: assumed submission should be in a ".tar" file like last time for Assignment 1
 
